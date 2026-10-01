@@ -1,0 +1,16 @@
+# Personal data - never commit
+pet_save*.json
+settings*.json
+resident_log*.txt
+*.bak
+
+# Old screenshots (show a real location)
+*screenshot*.jpg
+
+# Build output and release binaries (attached to GitHub Releases instead)
+build/
+dist/
+*.spec
+*.exe
+*.zip
+__pycache__/
