@@ -34,7 +34,7 @@ A virtual pet for Windows that you can actually talk to. It runs on a **local LL
    ```
    `gemma3:4b` runs on most PCs. Bigger models such as `gemma3:12b` give better conversations if you have the hardware.
 2. **Run the pet**, either way:
-   - **Easiest:** download `Ollama Pet v3.zip` from the [Releases](../../releases) page, unzip it anywhere, and double-click `Ollama Pet.exe`. Keep the `Images` folder next to the exe. Your saves are written to the same folder.
+   - **Easiest:** download `Ollama.Pet.v3.zip` from the [Releases](../../releases) page, unzip it anywhere, and double-click `Ollama Pet.exe`. Keep the `Images` folder next to the exe. Your saves are written to the same folder.
    - **From source:** install Python 3.9+ and run `python ollama_pet.py`. It only uses the standard library (Tkinter), so there's nothing to `pip install`.
 3. Hatch a pet, choose a look, and say hello. **Help** in the app explains everything else.
 
